@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RustHan.nl" resolutions="1x" timestamp="1500739717291">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-stramien.css" crc="3825482345" ref="plugins-uitleg:connect-to-server:index"/>
+    <file name="plugins-uitleg.css" crc="4185064836" ref="plugins-uitleg"/>
+    <file name="connect-to-server.css" crc="239886619" ref="connect-to-server"/>
+    <file name="iefonts_connect-to-server.css" crc="141279390" ref="connect-to-server"/>
+    <file name="index.css" crc="237569287" ref="index"/>
+    <file name="iefonts_index.css" crc="4232410313" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:connect-to-server:plugins-uitleg"/>
+    <file name="museutils.js" crc="4216313831" ref="index:connect-to-server:plugins-uitleg"/>
+    <file name="whatinput.js" crc="86476730" ref="index:connect-to-server:plugins-uitleg"/>
+    <file name="museconfig.js" crc="4177022356" ref="index:connect-to-server:plugins-uitleg"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4110862005" ref="index"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:connect-to-server:plugins-uitleg"/>
+    <file name="jquery.scrolleffects.js" crc="128250821" ref="index"/>
+    <file name="require.js" crc="3951022091" ref="index:connect-to-server:plugins-uitleg"/>
+  </folder>
+  <folder name="images">
+    <file name="airfield.jpg" crc="203883979" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg.jpg" crc="146037740" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rust_logo.jpg" crc="404538838" seo="true" ref="index:connect-to-server:plugins-uitleg">
+      <caption webpage="index" alt=""/>
+      <caption webpage="connect-to-server" alt=""/>
+      <caption webpage="plugins-uitleg" alt=""/>
+    </file>
+    <file name="rust_logo_andere_kleur.jpg" crc="201587234" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="359727317" seo="true" mt="1500739670415" redirect="true"/>
+  <file name="connect-to-server.html" crc="3787005774" seo="true" mt="1500734424102" redirect="true"/>
+  <file name="plugins-uitleg.html" crc="234642599" seo="true" mt="1500734116764" redirect="true"/>
+</manifest>
