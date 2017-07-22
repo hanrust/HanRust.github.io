@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RustHan.nl" resolutions="1x" timestamp="1500739717291">
+<manifest alg="2" build="2017.0.4.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="RustHan.nl" resolutions="1x" timestamp="1500743223086">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-stramien.css" crc="3825482345" ref="plugins-uitleg:connect-to-server:index"/>
     <file name="plugins-uitleg.css" crc="4185064836" ref="plugins-uitleg"/>
     <file name="connect-to-server.css" crc="239886619" ref="connect-to-server"/>
     <file name="iefonts_connect-to-server.css" crc="141279390" ref="connect-to-server"/>
-    <file name="index.css" crc="237569287" ref="index"/>
+    <file name="index.css" crc="271897704" ref="index"/>
     <file name="iefonts_index.css" crc="4232410313" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -19,6 +19,7 @@
     <file name="require.js" crc="3951022091" ref="index:connect-to-server:plugins-uitleg"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="301313334" ref="index"/>
     <file name="airfield.jpg" crc="203883979" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -38,7 +39,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="359727317" seo="true" mt="1500739670415" redirect="true"/>
-  <file name="connect-to-server.html" crc="3787005774" seo="true" mt="1500734424102" redirect="true"/>
-  <file name="plugins-uitleg.html" crc="234642599" seo="true" mt="1500734116764" redirect="true"/>
+  <file name="index.html" crc="4056854449" seo="true" mt="1500743186331" redirect="true"/>
+  <file name="connect-to-server.html" crc="3979077364" seo="true" mt="1500743081365" redirect="true"/>
+  <file name="plugins-uitleg.html" crc="4081504902" seo="true" mt="1500743081365" redirect="true"/>
 </manifest>
